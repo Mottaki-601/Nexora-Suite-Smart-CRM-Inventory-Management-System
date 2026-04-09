@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using NexoraSuite.Models;
 
-namespace RoleBaseAuthentication.ViewComponents
+namespace NexoraSuite.ViewComponents
 {
     public class ProductSummaryViewComponent : ViewComponent
     {
