@@ -1,4 +1,4 @@
-# 💥 Nexora Suite  
+# 💥Nexora Suite  
 ### Smart CRM & Inventory Management System
 
 Nexora Suite is a modern, full-featured **ASP.NET Core MVC** web application designed to streamline business operations by integrating **Customer Relationship Management (CRM)**, **Inventory Tracking**, and **Role-Based Authentication** into a unified platform.
