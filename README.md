@@ -62,7 +62,23 @@ It is built with scalability and maintainability in mind, leveraging **Entity Fr
 
 ## 📸 Screenshots
 
-> *(Add your project screenshots here for better presentation)*
+#### 🔶   Login Page
+> <img width="1345" height="891" alt="Login Page" src="https://github.com/user-attachments/assets/d180743c-0637-43f4-b73c-bf7f38856cad" />
+#### 🔶   Home Page
+> <img width="1353" height="944" alt="Home Page" src="https://github.com/user-attachments/assets/f569bdcf-25c6-41ec-acfb-981b13602997" />
+#### 🔶   Product Catalog and Information
+> <img width="1333" height="939" alt="Product" src="https://github.com/user-attachments/assets/df61b0a0-df73-4a14-bc2e-2d5affadf1b3" />
+#### 🔶   Customer Create Form
+> <img width="1373" height="927" alt="Customer Create" src="https://github.com/user-attachments/assets/b13159e5-5e5f-4cbd-b988-abef28fab5f8" />
+#### 🔶   Customer Registry
+> <img width="1350" height="951" alt="Customer Registry" src="https://github.com/user-attachments/assets/4fd051b4-77bc-49a6-95e1-0fc7a8c15b81" />
+#### 🔶   Customer Information Edit
+> <img width="1324" height="952" alt="Customer Edit Page" src="https://github.com/user-attachments/assets/7cf01ec2-6152-4560-8b33-1e693093db39" />
+
+#### 🔶   Role Management
+> <img width="1336" height="939" alt="Role management" src="https://github.com/user-attachments/assets/86c7dc72-9e9b-4972-86a6-1b2bae8c9da7" />
+#### 🔶   Role Assign
+> <img width="1358" height="937" alt="Role Assign" src="https://github.com/user-attachments/assets/f9181ef1-85ce-4720-86a7-7cef48f5053e" />
 
 ---
 
