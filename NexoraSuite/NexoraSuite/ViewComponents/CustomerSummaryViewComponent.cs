@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using NexoraSuite.Models;
 using System.Threading.Tasks;
 
-namespace RoleBaseAuthentication.ViewComponents
+namespace NexoraSuite.ViewComponents
 {
     public class CustomerSummaryViewComponent : ViewComponent
     {
