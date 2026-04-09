@@ -66,18 +66,34 @@ It is built with scalability and maintainability in mind, leveraging **Entity Fr
 
 ---
 
-## ⚙️ Installation & Setup
-
-1. Clone the repository:
-   ```bash
+## ⚙️ Installation & Setup 
+### 1. Clone the repository:
+ - ```bash
    git clone https://github.com/Mottaki-601/Nexora-Suite-Smart-CRM-Inventory-Management-System.git
    cd Nexora-Suite-Smart-CRM-Inventory-Management-System
-2. Open the project in Visual Studio
-3. Configure database connection in:
+   ```
+### 2. Open the project in Visual Studio 
+   - Open the solution file (.sln)
+### 3. Configure database 
+Update connection string in:
    - appsettings.json
-4. Run migrations / ensure database is ready
-5. Start the application:
-   - Ctrl + F5
+### 4. Setup Database (Important)
+This project uses a hybrid approach (EF Core + Stored Procedures)
+
+### 5. Run migrations / ensure database is ready
+ - ```bash
+   Add-Migration ScriptA -Context ApplicationDbContext
+   Update-Database -Context ApplicationDbContext
+     ```
+ - ```bash
+   Add-Migration ScriptB -Context AppDbContext
+   Update-Database -Context AppDbContext 
+   ```
+### 6. Run the following SQL files:
+   - **sp.sql** (Stored Procedures)
+### 7. Run the Application  
+   - Press:
+Ctrl + F5
      
 ---
 
