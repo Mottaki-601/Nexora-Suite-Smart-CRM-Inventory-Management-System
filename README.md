@@ -71,6 +71,7 @@ It is built with scalability and maintainability in mind, leveraging **Entity Fr
 1. Clone the repository:
    ```bash
    git clone https://github.com/Mottaki-601/Nexora-Suite-Smart-CRM-Inventory-Management-System.git
+   cd Nexora-Suite-Smart-CRM-Inventory-Management-System
 2. Open the project in Visual Studio
 3. Configure database connection in:
    - appsettings.json
