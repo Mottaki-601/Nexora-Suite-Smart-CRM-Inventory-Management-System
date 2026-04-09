@@ -78,7 +78,7 @@ It is built with scalability and maintainability in mind, leveraging **Entity Fr
 Update connection string in:
    - appsettings.json
 ### 4. Setup Database (Important)
-This project uses a hybrid approach (EF Core + Stored Procedures)
+   - 🔴*This project uses a hybrid approach (EF Core + Stored Procedures)*
 
 ### 5. Run migrations / ensure database is ready
  - ```bash
