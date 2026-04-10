@@ -106,7 +106,7 @@ Update connection string in:
    Update-Database -Context AppDbContext 
    ```
 ### 6. Run the following SQL files:
-   - **sp.sql** (Stored Procedures)
+   - **`sp.sql`** (Stored Procedures)
 ### 7. Run the Application  
    - Press:
 Ctrl + F5
